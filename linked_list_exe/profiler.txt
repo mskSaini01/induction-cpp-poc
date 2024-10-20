@@ -1,0 +1,20 @@
+Profile for PushBacks in list
+Frequency : 1000
+Time Elapsed: 1593ms
+
+Profile for PopBacks in list
+Frequency : 1000
+Time Elapsed: 1044ms
+
+Profile for PushFront in list
+Frequency : 1
+Time Elapsed: 1ms
+
+Profile for PushFront in list
+Frequency : 1
+Time Elapsed: 1ms
+
+Profile for insert at index 1 in list
+Frequency : 1
+Time Elapsed: 1ms
+

@@ -1,0 +1,8 @@
+Custom Malloc
+Frequency : 100000
+Time Elapsed: 8ms
+
+Standard Malloc
+Frequency : 100000
+Time Elapsed: 22ms
+
